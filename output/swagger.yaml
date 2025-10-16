@@ -78,8 +78,11 @@
           "200" : {
             "description" : "A single warehouse space."
           },
+          "400" : {
+            "description" : "Warehouse space already full."
+          },
           "404" : {
-            "description" : "Warehouse not found."
+            "description" : "Warehouse not found"
           },
           "500" : {
             "description" : "Server error."
