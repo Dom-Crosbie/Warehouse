@@ -55,6 +55,9 @@
           "400" : {
             "description" : "Invalid input."
           },
+          "404" : {
+            "description" : "No Warehouse space available."
+          },
           "500" : {
             "description" : "Server error."
           }
